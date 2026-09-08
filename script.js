@@ -229,10 +229,17 @@ function getFreeSlots(day) {
     let cursor = campusStart;
     merged.forEach(block => {
         if (block.start > cursor && block.start - cursor >= usefulFreeSlotMinutes) gaps.push({ start: cursor, end: block.start });
-        cursor = Math.max(cursor, block.end);
-    });
-    if (campusEnd - cursor >= usefulFreeSlotMinutes) gaps.push({ start: cursor, end: campusEnd });
-    return gaps;
+cursor = Math.max(cursor, block.end);
+});
+
+if (campusEnd - cursor >= usefulFreeSlotMinutes) gaps.push({ start: cursor, end: campusEnd });
+
+// Remove lunch break (1:00 PM - 2:00 PM)
+gaps = gaps.filter(slot => {
+    return !(slot.start < 14 * 60 && slot.end > 13 * 60);
+});
+
+return gaps;
 }
 
 function renderFreeSlots() {

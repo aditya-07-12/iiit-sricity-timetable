@@ -225,7 +225,7 @@ function getFreeSlots(day) {
         else last.end = Math.max(last.end, c.end);
     });
 
-    const gaps = [];
+    let gaps = [];
     let cursor = campusStart;
     merged.forEach(block => {
         if (block.start > cursor && block.start - cursor >= usefulFreeSlotMinutes) gaps.push({ start: cursor, end: block.start });

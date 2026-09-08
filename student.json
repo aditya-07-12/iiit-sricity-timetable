@@ -1,0 +1,4895 @@
+{
+  "semester": "Monsoon 2026",
+  "institute": "Indian Institute of Information Technology Sri City, Chittoor",
+  "source_files": [
+    "cp1.txt",
+    "cp2.txt",
+    "cp3.txt",
+    "cp4.txt",
+    "ds1.txt",
+    "ds2.txt",
+    "ds4.txt",
+    "ds5.txt",
+    "FHVE (same section as DSMA)",
+    "DSMA_M2026.xlsx - DSMA_Sec3 (1).pdf"
+  ],
+  "student_count": 437,
+  "students": {
+    "S20250010056": {
+      "name": "Devarakonda H",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20250010235": {
+      "name": "Sitammagari Jagadiswar Reddy",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20250020281": {
+      "name": "A Thirumala Sai jamla Naik",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20250020308": {
+      "name": "JUGALA SASMITH KUMAR",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20250020364": {
+      "name": "Syed Touqir",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010001": {
+      "name": "Aadarsh Patidar",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010002": {
+      "name": "Aahan Mathur",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010003": {
+      "name": "Aahil Mohammed P R",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010004": {
+      "name": "AARE DHANUSH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010005": {
+      "name": "AARYAN ATISH KAKADE",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010006": {
+      "name": "Abhinav Singh",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010007": {
+      "name": "ADITHYA RAJ P",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010008": {
+      "name": "ADITYA CHUDAS",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010009": {
+      "name": "Aditya Rajesh",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010010": {
+      "name": "Aditya Sharma",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010011": {
+      "name": "AGEPATI KRISH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010012": {
+      "name": "Ahmed Ali",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010013": {
+      "name": "AJEEM BAGAWAN",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010014": {
+      "name": "Akshaj P",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010015": {
+      "name": "Akshay Kumar",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010016": {
+      "name": "Akshaya K",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010017": {
+      "name": "Amineni Thrishank Sai",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010018": {
+      "name": "Ammineni Tejanshu",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010019": {
+      "name": "ANCHA SAI SHRAVIKA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010020": {
+      "name": "Anees Rehuman Ahammad Kunju",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010021": {
+      "name": "Ankoju Yaswan",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010022": {
+      "name": "ANNAM DIVYA C",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010023": {
+      "name": "Ansh Pawan Bo",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010024": {
+      "name": "ANUGOJU VARSHITH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010025": {
+      "name": "Anuj Mudotiya",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010026": {
+      "name": "ARNAV ATUL RA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010027": {
+      "name": "ARULKUMAR SOMASUNDARAM",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010028": {
+      "name": "Aryan dubey",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010029": {
+      "name": "Ashish Meena",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010030": {
+      "name": "Ashmit Chanana",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010031": {
+      "name": "Atulya Vats",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010032": {
+      "name": "Avikshith P Rao",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010033": {
+      "name": "Ayush",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010034": {
+      "name": "Ayush Pal Singh",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010035": {
+      "name": "BANDA SAI HAR",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010036": {
+      "name": "BANDARI SUSRI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010037": {
+      "name": "BANTU MANVITHA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010038": {
+      "name": "BELLAM KOWSHIK",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010039": {
+      "name": "BHAVISH PRASA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010040": {
+      "name": "Bhimireddy Sushanth",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010041": {
+      "name": "Bhukya Sanjay",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010042": {
+      "name": "Bhupendra Kumar",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010043": {
+      "name": "BOLISETTI VENKATA SATYA PARTHIV",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010044": {
+      "name": "BOLLINENI RATHAN TEJA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010045": {
+      "name": "Bongu Navadee",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010046": {
+      "name": "Burri Anthony Joshitha Reddy",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010047": {
+      "name": "CHAGANTI GAYATRI MOKSHA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010048": {
+      "name": "Chakhongthai",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010049": {
+      "name": "CHALAMALA PAV",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010050": {
+      "name": "Chamakuri yaswitha",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010051": {
+      "name": "Charanjith S",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010052": {
+      "name": "Chepa Dellieswararao",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010053": {
+      "name": "CHOUDAVARAM C",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010054": {
+      "name": "D SUCHITRA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010055": {
+      "name": "Darisa Uday Sai",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010056": {
+      "name": "Darshan S",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010057": {
+      "name": "DEETYA REDDY KALLURI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010058": {
+      "name": "Deshabhathini Sriram",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010059": {
+      "name": "Devana sai viswa srujan reddy",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010060": {
+      "name": "Devvrat yadav",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010061": {
+      "name": "Dhande Sai Pr",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010062": {
+      "name": "DHRUV MAHESH KOTHARI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010063": {
+      "name": "DHURAV PRATAP SINGH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010064": {
+      "name": "DODDI UMESH C",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010065": {
+      "name": "Duppati Nipun Reddy",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010066": {
+      "name": "ERRAS UJWAL RAJ",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010067": {
+      "name": "Ethan Joseph",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010068": {
+      "name": "Fayad Mohammed Anzari",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010069": {
+      "name": "GANAPAREDDY AKSHAY LOKESH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010070": {
+      "name": "GANDROTULA JAYAVARDHAN",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010071": {
+      "name": "Garud Vedant Laxman",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010072": {
+      "name": "Golla Goutham",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010073": {
+      "name": "GOLLAPALLI LOKENDRA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010074": {
+      "name": "Govarthini D",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010075": {
+      "name": "GOWTHAM P",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010076": {
+      "name": "Grandhi Madhav Kalyan",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010077": {
+      "name": "Greeshma Reddy Meda",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010078": {
+      "name": "Gudimetla Ven",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010079": {
+      "name": "Gudiseva Haranadh",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010080": {
+      "name": "GUGLOTH PARIMAL CHANDAN",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010081": {
+      "name": "Gulugulurineelima",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010082": {
+      "name": "Gurijala Goutham",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010083": {
+      "name": "H UDAYA SANKA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010084": {
+      "name": "H Vidya Shree",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010085": {
+      "name": "Hari Krishna O",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010086": {
+      "name": "Harshini Ravi",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010087": {
+      "name": "IPPAKA VAMSI SAI KUMAR",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010088": {
+      "name": "Ishaan Dhiman",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010089": {
+      "name": "Ishitwa kumar",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010090": {
+      "name": "JAKKU SINDUJA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010091": {
+      "name": "Jarpula sunil",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010092": {
+      "name": "Jay sachin karnavat",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010093": {
+      "name": "Jhanavarshan R S",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010094": {
+      "name": "Joshi Rugved Suhas",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010095": {
+      "name": "JULURU LITHISHA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010096": {
+      "name": "Juturu surya hithesh",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010097": {
+      "name": "K ABHINAV",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010098": {
+      "name": "K Vishwadeep",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010099": {
+      "name": "Kabir Chandrashekhar Bagul",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010100": {
+      "name": "KAKITAPALLI HASINI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010101": {
+      "name": "KALIDINDI SHARODH VARMA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010102": {
+      "name": "Kambalapally Nishant",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010103": {
+      "name": "KANAKALA JAYA VISHNU PRIYA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010104": {
+      "name": "KANDIMALLA NIKHIL KRISHNA SAI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010105": {
+      "name": "KANDURI VITES",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010106": {
+      "name": "Kanike Sri Hari Haran",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010107": {
+      "name": "KANTHALA KOUSHIK REDDY",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010108": {
+      "name": "KANUGULA VINUTHNA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010109": {
+      "name": "KARAM ANAND KUMAR",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010110": {
+      "name": "KARTHIKEYAN P",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010111": {
+      "name": "Katakam koushik",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010112": {
+      "name": "KAVIN KRISHNA P",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010113": {
+      "name": "KESAVAN V",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010114": {
+      "name": "Kethavath Harshith Rathod",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010115": {
+      "name": "Khazi Mohammed Fahad",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010116": {
+      "name": "KHOLA PRUTHVIRAJ RATHOD",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010117": {
+      "name": "Komarabathi Rachell keats",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010118": {
+      "name": "KOMMINDALA SAHITH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010119": {
+      "name": "Konathala Navneet",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010120": {
+      "name": "KONDAPAKA DHANVEE KRISHNA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010121": {
+      "name": "KONDAPALLI SA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010122": {
+      "name": "KORACHA SRISAI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010123": {
+      "name": "Kotnur Hanifa Banu",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010124": {
+      "name": "Kottisa Tarun Teja",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010125": {
+      "name": "Kukadiya hitarth prakashbhai",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010126": {
+      "name": "KULLA ABHINAV",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010127": {
+      "name": "KURUVA MANJUNATH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010128": {
+      "name": "Kushagra Devanda",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010129": {
+      "name": "Lakhinana shreya",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010130": {
+      "name": "Lalam Gnana datta",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010131": {
+      "name": "Lavudi harshitha",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010132": {
+      "name": "Leburu Sree Ashish Reddy",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010133": {
+      "name": "LINGALADINNE MOJITH SIMHA REDDY",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010134": {
+      "name": "LINGAM NAYAN V",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010135": {
+      "name": "LOKIREVU BHAR",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010136": {
+      "name": "LOVISETTI VAISHNAVI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010137": {
+      "name": "M LAXMI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010138": {
+      "name": "Maanvender Si",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010139": {
+      "name": "MACHERLA SAI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010140": {
+      "name": "MADALA KARTHIKEYA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010141": {
+      "name": "MADANALA RITHWIK",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010142": {
+      "name": "Maddala Anish",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010143": {
+      "name": "Maganti sri sai Charan tej",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010144": {
+      "name": "MAKIREDDY SRE",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010145": {
+      "name": "Makwana Siddharth Vijaykumar",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010146": {
+      "name": "MALGARI PRANAVI REDDY",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010147": {
+      "name": "MANASWINI NANDIPATI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010148": {
+      "name": "MANCHALA DEEKSHITH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010149": {
+      "name": "Mannela shashanth kumar reddy",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010150": {
+      "name": "MARRY YASODHAR",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010151": {
+      "name": "MASIMUKKULA SAI RAMAA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010152": {
+      "name": "Matamsetti Sri Mukesh",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010153": {
+      "name": "Mayank Pattanaik",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010154": {
+      "name": "MEETH JAIN",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010155": {
+      "name": "MEGHANSH BHARGAVA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010156": {
+      "name": "MERLA JYOTHIRMAYI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010157": {
+      "name": "MIDDIBOYINA GAUTHAM",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010158": {
+      "name": "MIRIYALA TAVYA SAI KRISHNA B",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010159": {
+      "name": "Mohammad khaja Faiz ahmed",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010160": {
+      "name": "Mohammad Saad",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010161": {
+      "name": "Mohammed Anas Hisham K",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010162": {
+      "name": "Monika K M",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010163": {
+      "name": "Mood Lipsika",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010164": {
+      "name": "MRAGANSH BHARGAVA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010165": {
+      "name": "Mucheli Madhavsai",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010166": {
+      "name": "MUHAMMAD ABAAN PASHA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010167": {
+      "name": "Muhammed Rinshal A",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010168": {
+      "name": "Mukku Abbhinavaraam",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010169": {
+      "name": "MUPPALAM TUSHITA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010170": {
+      "name": "MUVVALA HARSH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010171": {
+      "name": "N Acharya",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010172": {
+      "name": "Narlapati.Bannu",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010173": {
+      "name": "Narra Prudvidar Reddy",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010174": {
+      "name": "NARRA SAHASRA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010175": {
+      "name": "Nayani anisha",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010176": {
+      "name": "NIRZAR DHOKE",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010177": {
+      "name": "Nishant",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010178": {
+      "name": "NRIPENDRA BABU H R",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010179": {
+      "name": "NUKALA ROHANT",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010180": {
+      "name": "Om Atul Gavhane",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010181": {
+      "name": "P M ABHINAV",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010182": {
+      "name": "PADALA RAM PAVAN TEJ",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010183": {
+      "name": "Pallap Nagasai Sthithapragna",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010184": {
+      "name": "Pattipati Venkat Varun",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010185": {
+      "name": "Pemmaraju venkata Pranav adi",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010186": {
+      "name": "PIDATHALA THRIPURA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010187": {
+      "name": "Pirai Thiyaagaraasan",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010188": {
+      "name": "Piyush kumar",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010189": {
+      "name": "PIYUSH KUMAR MEENA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010190": {
+      "name": "PRACHI PRAMOD KHANDARE",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010191": {
+      "name": "Prakhar Chaudhary",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010192": {
+      "name": "Pranit Gupta",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010193": {
+      "name": "PRATEEK J N",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010194": {
+      "name": "Prathmesh Vinod Sonawane",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010195": {
+      "name": "PRIYANSHU ALAWE",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010196": {
+      "name": "PULUKURTHY ABHIRAM REDDY",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010197": {
+      "name": "Puvvala Pavan sai",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010198": {
+      "name": "Rahul S",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010199": {
+      "name": "Ramireddy gari Karthik Reddy",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010200": {
+      "name": "Rangole Soham Chittaranjan",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010201": {
+      "name": "Ranvijay Singh Rohal",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010202": {
+      "name": "RAYAVARAPU SAI PRASANTH JAWAHAR",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010203": {
+      "name": "Reddy Srihari V",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010204": {
+      "name": "Ribhu Paul",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010205": {
+      "name": "Rishika dubey",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010206": {
+      "name": "RUPESH SAI RAVI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010207": {
+      "name": "Rushil Rahul Patil",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010208": {
+      "name": "S VASANTH ABHISHEK",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010209": {
+      "name": "SAHASRA VAITLA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010210": {
+      "name": "SAI ANEESH EERLA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010211": {
+      "name": "SAKA LAKSHMI RATNA SRIVARSHINI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010212": {
+      "name": "Saka Raghava",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010213": {
+      "name": "Samarth Nair",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010214": {
+      "name": "SANJAAY K",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010215": {
+      "name": "Sanjal P",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010216": {
+      "name": "SANJAY RAJU",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010217": {
+      "name": "SANTHOSH V",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010218": {
+      "name": "SARLA SAI PREETHAM",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010219": {
+      "name": "SARTHAK SHRIMANT PADALKAR",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010220": {
+      "name": "SARVASUDDI RAM CHARAN TEJA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010221": {
+      "name": "SATYAM ABHIJEET",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010222": {
+      "name": "Saud Bin Abdul Mutallib",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010223": {
+      "name": "Savar shrinivas khandare",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010224": {
+      "name": "Shaik Mohammed Mubbashir Adee",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010225": {
+      "name": "SHAIK SHABBEER ALI",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010226": {
+      "name": "SHAURYA SINHA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260010227": {
+      "name": "Shikshit yadav",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010228": {
+      "name": "Shriyank S G",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010229": {
+      "name": "Siddhant Sanjay Daud",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010230": {
+      "name": "SIGARAMBOTLA PRAJWAL",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010231": {
+      "name": "Siva Sisir Marla",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010232": {
+      "name": "SOMALA MARUTHI VARA PRASAD",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010233": {
+      "name": "Soumojit Pan",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010234": {
+      "name": "Sreepada Vallabh Alluri",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010235": {
+      "name": "Srimanas Perambuduri",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010236": {
+      "name": "STEVE MATTHEW PHILIP",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010237": {
+      "name": "Sudharsan J",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010238": {
+      "name": "Sumit Kumar Sachdev",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010239": {
+      "name": "Sundram singh",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010240": {
+      "name": "Suneet Bafna",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010241": {
+      "name": "Sunkara Ajitesh Sai",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010242": {
+      "name": "SURAGOUNI JAYA SHANMUKHA PRIYA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010243": {
+      "name": "SURAM MANJU SREE",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010244": {
+      "name": "SURESHBABU PUNETHKUMAR",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010245": {
+      "name": "TALLAM DEEPTHI BHAVANA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010246": {
+      "name": "Tanish",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010247": {
+      "name": "TANISHQ VITTHAL KADAM",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010248": {
+      "name": "Tejas Gopal Pagrut",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010249": {
+      "name": "Tejas Navnath Ghalgir",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010250": {
+      "name": "THAROON R",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010251": {
+      "name": "Thondamanati Harsha Vardhan Redd",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010252": {
+      "name": "Thondepu Sylesh Hawen Sai",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010253": {
+      "name": "Thumar Yashvi Shashikantbhai",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010254": {
+      "name": "TRIJAL M",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010255": {
+      "name": "UPPALAPATI HARSHITH KUMAR REDDY",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010256": {
+      "name": "Usakoila Snuhith",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010257": {
+      "name": "Vaibhav Chahar",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010258": {
+      "name": "Vaibhav Ranwasiya",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010259": {
+      "name": "VARAD KANTAPRASAD ZANWAR",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010260": {
+      "name": "VARSHINI S",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010261": {
+      "name": "Varthya Akhil naik",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010262": {
+      "name": "VEDANT PRAVIN WANKHADE",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010263": {
+      "name": "Vikas kk",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010264": {
+      "name": "Vishwak Mogudumpuram",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010265": {
+      "name": "VOOLA NABHAY PATRO",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260010266": {
+      "name": "YADLAPALLI PRANAYA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010267": {
+      "name": "Yamini Shrinivas Uppari",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010268": {
+      "name": "YASH PUNIA",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260010269": {
+      "name": "Yash Singh",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010270": {
+      "name": "Yella Sathvik",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260010271": {
+      "name": "YELLATI RESHWANTH",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010272": {
+      "name": "YELURI BINCY JOEL",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260010273": {
+      "name": "YERRI BHANU PRAKASH NAIDU",
+      "branch": "CSE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020274": {
+      "name": "Adepu Ananya",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020275": {
+      "name": "Adithi Govindan",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020276": {
+      "name": "Aditya Kaushal",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260020277": {
+      "name": "Aditya Nitin Asole",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020278": {
+      "name": "Akhil Kumar",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020279": {
+      "name": "AKIL RAYEES",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260020280": {
+      "name": "Aman Yadav",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec4",
+        "FHVE": "Sec4"
+      }
+    },
+    "S20260020281": {
+      "name": "Ammaar aziz khan",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020282": {
+      "name": "AMOGH P KOLATHAYA",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020283": {
+      "name": "Atharva Amar Mankal",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020284": {
+      "name": "Avichal Singh",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020285": {
+      "name": "AVULA BHARGAV",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020286": {
+      "name": "BACHU SANTHOSH RUTHWIK",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020287": {
+      "name": "Batchu Akarsh",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020288": {
+      "name": "Bathula Lokesh Reddy",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020289": {
+      "name": "BAVIRISETTI HARSHA VARDHAN",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020290": {
+      "name": "BIJJAM MAHANTH REDDY",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020291": {
+      "name": "BOREM SHIVA PRANAY REDDY",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020292": {
+      "name": "C Jeevith",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020293": {
+      "name": "C Sravani",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020294": {
+      "name": "C.Zirtluanga",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020295": {
+      "name": "CHILKA VISHAL REDDY",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020296": {
+      "name": "Chintala Sai Smruti Sahitya",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020297": {
+      "name": "CHODISETTI TRICHAKRA RAJ TANUSH",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020298": {
+      "name": "Devansh Chandani",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020299": {
+      "name": "DEVDATTA ASHOK SHEWALE",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020300": {
+      "name": "Dharavath venkatesh",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020301": {
+      "name": "DHARSHAN SENTHILKUMAR PUSHPARA",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020302": {
+      "name": "Divakar",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020303": {
+      "name": "ELAKKIYA P",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020304": {
+      "name": "ELANEETHAN S",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020305": {
+      "name": "G HARISH",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020306": {
+      "name": "GHANTA SAI VENKATA SANJEEV REDDY",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020307": {
+      "name": "Gudimetla Sai Abhiram",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020308": {
+      "name": "Gudla Suvan Karthikeya",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020309": {
+      "name": "HIMESH NINAMA",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020310": {
+      "name": "Jade Parth Rahul",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020311": {
+      "name": "JAITASHRI KINTHADA",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020312": {
+      "name": "Jamulamadugu Yashwanth",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020313": {
+      "name": "JATLA VEERA ANIL",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020314": {
+      "name": "JOHAAN T JOHN",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020315": {
+      "name": "Jonnadula Nishanth krishna",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020316": {
+      "name": "Kandalam Hasini",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020317": {
+      "name": "KANDHAVEL A",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020318": {
+      "name": "Kartik Bhudeka",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020319": {
+      "name": "KHAVISHWAR S",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020320": {
+      "name": "Kishore J",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020321": {
+      "name": "Kommavar Sai Sreehith",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020322": {
+      "name": "Kommineni deekshita sai",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020323": {
+      "name": "Kumar K",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020324": {
+      "name": "Kuruba Kalpana",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020325": {
+      "name": "Mahi Singh",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020326": {
+      "name": "MALOTHU SAI RAM",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020327": {
+      "name": "Mayank",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020328": {
+      "name": "Meeniga Rakshitha",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020329": {
+      "name": "Minnila M P",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020330": {
+      "name": "MITTAPALLI YASASWINI",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020331": {
+      "name": "Mutyala Sri Sai Virendra",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020332": {
+      "name": "Naethan D Narayanan",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020333": {
+      "name": "Nagireddypalli Sainath Reddy",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020334": {
+      "name": "Nischal J",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020335": {
+      "name": "PALADUGU MAHITH",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020336": {
+      "name": "PASHAM AARUSH REDDY",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020337": {
+      "name": "Patel Dhairya Suresh",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020338": {
+      "name": "PAVULURI SAHITH CHOWDARY",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020339": {
+      "name": "POKALA HASINI REDDY",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020340": {
+      "name": "PRAGADEESH B",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020341": {
+      "name": "Pratham Palabatla",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020342": {
+      "name": "PRAVEEN KUMAR N K",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020343": {
+      "name": "PREETHI GNANAVEL",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260020344": {
+      "name": "PULKIT ADITYA",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020345": {
+      "name": "Ravinuthala Naga Mohana Rushi Kumar",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020346": {
+      "name": "Reguri Niroop Reddy",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020347": {
+      "name": "REVANSHU SUDHIR GAWAI",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020348": {
+      "name": "RITHUPRASAD R",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020349": {
+      "name": "ROUTHU MANI TEJA",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020350": {
+      "name": "Rudrashish Chakraborty",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020351": {
+      "name": "S R PRAJITH",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020352": {
+      "name": "Sahu Shubhrajit Hrushikesh",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020353": {
+      "name": "Satwik Kulkarni",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020354": {
+      "name": "SAYYAD GALIB JUNAID",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020355": {
+      "name": "SHAIK MOHAMMED RAIYAN WASI",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020356": {
+      "name": "Sharvesh V",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020357": {
+      "name": "Siripuram pardhiv",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020358": {
+      "name": "SUKI S",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020359": {
+      "name": "Syed Mohammed Aaqib",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260020360": {
+      "name": "Thanikonda Puneeth Prabhu",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020361": {
+      "name": "Thota mohana sri satya sai avinash",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020362": {
+      "name": "U NAVEEN",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020363": {
+      "name": "Udatha Divyateja",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260020364": {
+      "name": "Vasudevan M",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020365": {
+      "name": "Vetriselvan Divakar",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020366": {
+      "name": "VIRAJ KATE",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260020367": {
+      "name": "Yarramaneni Yasahswiram",
+      "branch": "ECE",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030368": {
+      "name": "Aarush Agarwal",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030369": {
+      "name": "ABDULLA NAJVAN UK",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030370": {
+      "name": "Abhishek Kumar",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030371": {
+      "name": "Adigarla Jijnash",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030372": {
+      "name": "ADITYA BHASKAR TANGDE",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030373": {
+      "name": "Alichala Aravind Sai",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030374": {
+      "name": "ALLI ROHIT SAI",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030375": {
+      "name": "Amitesh A",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030376": {
+      "name": "Anushka",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260030377": {
+      "name": "Arelli Srivaidik",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030378": {
+      "name": "AVULA CHAITHANYA KRISHNA",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030379": {
+      "name": "Ayush Kumar Sagar",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030380": {
+      "name": "Badugu Kevin Aashrith",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030381": {
+      "name": "Bathula Srinidhi",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260030382": {
+      "name": "BOLLEPALLI SANDEEP CHOWDARY",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030383": {
+      "name": "BUKKE DIVYA SHARVANI",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260030384": {
+      "name": "Chalasani Pranavi",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260030385": {
+      "name": "Chinnapaka Vivekh Vishwa Teja",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030386": {
+      "name": "Gajula Vardhan",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030387": {
+      "name": "Gandhavalla.Jaya Lasya",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec2",
+        "FHVE": "Sec2"
+      }
+    },
+    "S20260030388": {
+      "name": "Gangarapu vijaya malleswara Reddy",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030389": {
+      "name": "Ganti Sanjay",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030390": {
+      "name": "Gokul B S",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030391": {
+      "name": "Guddety Satwik Reddy",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030392": {
+      "name": "Gundra Manish Raju",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030393": {
+      "name": "Keerthan Myakala",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030394": {
+      "name": "Khawale shiv ramprasad",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030395": {
+      "name": "KORTHA RAJDEEP REDDY",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030396": {
+      "name": "Krish Singh",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030397": {
+      "name": "KUDUPUDI LAKSHMI ASRITHA",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260030398": {
+      "name": "Kutagulla Naga Pranav",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030399": {
+      "name": "LINGINENI VEDIKA KRISHNA",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260030400": {
+      "name": "Marripati Gowrish",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030401": {
+      "name": "Medikonduri Charan Ganesh",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030402": {
+      "name": "Meka sai shloka",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260030403": {
+      "name": "Merugu Snigdha",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260030404": {
+      "name": "MITHULKIRTHIK.V",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030405": {
+      "name": "Nageswaran Sairam",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030406": {
+      "name": "Navarag Vangapally",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030407": {
+      "name": "NOSUM HARSHA VARDHAN REDDY",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030408": {
+      "name": "OBULI VISNUBALA",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030409": {
+      "name": "PALLA KARTHIK",
+      "branch": "AI&DS",
+      "courses": {
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030410": {
+      "name": "Pallaka Siva Sai Charan Reddy",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030411": {
+      "name": "Parth Shingne",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030412": {
+      "name": "Posa Venkata Sai Gnana Prasuna Kumar",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030413": {
+      "name": "PRAJWAL BATTINA",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030414": {
+      "name": "Rahul",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030415": {
+      "name": "RAQEEB AMAAN MOHAMMAD ABDUL",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030416": {
+      "name": "RAYI VARUN",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030417": {
+      "name": "Sahitya Raj",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030418": {
+      "name": "Sanaboyina mohan sai",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030419": {
+      "name": "Saumita Biswas",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260030420": {
+      "name": "SHAIK NAUSHAAD",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030421": {
+      "name": "Shaurya Kumar",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030422": {
+      "name": "Shiven Rana",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030423": {
+      "name": "Siddharth Bartwal",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030424": {
+      "name": "Sidhaarth Gowtham G",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030425": {
+      "name": "Sooryadev Rajesh",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030426": {
+      "name": "SREERAMDASU MEERAJ KRISHNA PADMASA",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030427": {
+      "name": "Sukshith Girish Gowda",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec4",
+        "DLD": "Sec4",
+        "OCW": "Sec4",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030428": {
+      "name": "Swarasya Mule",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec3",
+        "DLD": "Sec3",
+        "OCW": "Sec3",
+        "DSMA": "Sec3",
+        "FHVE": "Sec3"
+      }
+    },
+    "S20260030429": {
+      "name": "Tanishq Garje",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    },
+    "S20260030430": {
+      "name": "Ukey atharva sheshraj",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030431": {
+      "name": "Vadthyavath Siddu Naik",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec2",
+        "DLD": "Sec2",
+        "OCW": "Sec2",
+        "DSMA": "Sec5",
+        "FHVE": "Sec5"
+      }
+    },
+    "S20260030432": {
+      "name": "VYSYARAJU SAI CHANDRA RAJU",
+      "branch": "AI&DS",
+      "courses": {
+        "CP": "Sec1",
+        "DLD": "Sec1",
+        "OCW": "Sec1",
+        "DSMA": "Sec1",
+        "FHVE": "Sec1"
+      }
+    }
+  },
+  "validation": {
+    "source_record_count": 785,
+    "conflict_count": 11,
+    "conflicts": [
+      [
+        "S20260010189",
+        "name",
+        "PIYUSH KUMAR MEENA",
+        "PIYUSH KUMAR"
+      ],
+      [
+        "S20260010201",
+        "name",
+        "Ranvijay Singh Rohal",
+        "Ranvijay Sing"
+      ],
+      [
+        "S20260010202",
+        "name",
+        "RAYAVARAPU SAI PRASANTH JAWAHAR",
+        "RAYAVARAPU SA"
+      ],
+      [
+        "S20260010206",
+        "name",
+        "RUPESH SAI RAVI",
+        "RUPESH SAI RA"
+      ],
+      [
+        "S20260010208",
+        "name",
+        "S VASANTH ABHISHEK",
+        "S VASANTH ABH"
+      ],
+      [
+        "S20260010210",
+        "name",
+        "SAI ANEESH EERLA",
+        "SAI ANEESH EE"
+      ],
+      [
+        "S20260010219",
+        "name",
+        "SARTHAK SHRIMANT PADALKAR",
+        "SARTHAK SHRIM"
+      ],
+      [
+        "S20260010236",
+        "name",
+        "STEVE MATTHEW PHILIP",
+        "STEVE MATTHEW"
+      ],
+      [
+        "S20260010265",
+        "name",
+        "VOOLA NABHAY PATRO",
+        "VOOLA NABHAY"
+      ],
+      [
+        "S20260020277",
+        "name",
+        "Aditya Nitin Asole",
+        "Aditya Nitin"
+      ],
+      [
+        "S20260010242",
+        "name",
+        "SURAGOUNI JAYA SHANMUKHA PRIYA",
+        "SURAGOUNI JAYA SHANMUKHA PRI"
+      ]
+    ]
+  }
+}

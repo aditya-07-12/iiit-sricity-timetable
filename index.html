@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#111827">
+    <title>UG1 Timetable</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="hero">
+            <div>
+                <div class="eyebrow">UG1 · MONSOON 2026</div>
+                <h1>📅 My Timetable</h1>
+                <p>Find your classes, your next lecture, and free UG1 time slots.</p>
+            </div>
+            <button id="themeToggle" class="icon-button" type="button" aria-label="Toggle dark mode">🌙</button>
+        </header>
+
+        <section class="search-card">
+            <label for="rollNumber">Roll number</label>
+            <div class="search">
+                <input type="text" id="rollNumber" placeholder="e.g. S2026XXXXXXXX" autocomplete="off">
+                <button id="searchButton" type="button">Get Timetable</button>
+            </div>
+            <div id="searchHint" class="hint">Your timetable is based on your course-wise section allocation.</div>
+        </section>
+
+        <div id="studentInfo"></div>
+        <div id="dashboard"></div>
+        <div id="timetable"></div>
+        <div id="freeSlots"></div>
+        <button id="changeRollButton" class="change-roll" type="button" hidden>↩ Change Roll Number</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

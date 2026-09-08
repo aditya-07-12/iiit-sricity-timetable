@@ -1,0 +1,777 @@
+{
+  "CP": {
+    "Sec1": [
+      {
+        "day": "Monday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "CP",
+        "room": "G08"
+      },
+      {
+        "day": "Wednesday",
+        "time": "08:45 AM - 09:45 AM",
+        "subject": "CP Lab",
+        "room": "103"
+      },
+      {
+        "day": "Wednesday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "CP Lab",
+        "room": "103"
+      },
+      {
+        "day": "Thursday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "CP",
+        "room": "G09"
+      },
+      {
+        "day": "Tuesday",
+        "time": "04:30 PM - 05:30 PM",
+        "subject": "CP",
+        "room": "G06"
+      }
+    ],
+    "Sec2": [
+      {
+        "day": "Wednesday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "CP",
+        "room": "G08"
+      },
+      {
+        "day": "Thursday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "CP Lab",
+        "room": "103"
+      },
+      {
+        "day": "Thursday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "CP Lab",
+        "room": "103"
+      },
+      {
+        "day": "Friday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "CP",
+        "room": "G09"
+      },
+      {
+        "day": "Tuesday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "CP",
+        "room": "G09"
+      }
+    ],
+    "Sec3": [
+      {
+        "day": "Monday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "CP Lab",
+        "room": "103"
+      },
+      {
+        "day": "Monday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "CP Lab",
+        "room": "103"
+      },
+      {
+        "day": "Monday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "CP",
+        "room": "G08"
+      },
+      {
+        "day": "Thursday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "CP",
+        "room": "G07"
+      },
+      {
+        "day": "Friday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "CP",
+        "room": "G06"
+      }
+    ],
+    "Sec4": [
+      {
+        "day": "Tuesday",
+        "time": "08:45 AM - 09:45 AM",
+        "subject": "CP Lab",
+        "room": "103"
+      },
+      {
+        "day": "Tuesday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "CP Lab",
+        "room": "103"
+      },
+      {
+        "day": "Tuesday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "CP",
+        "room": "B03"
+      },
+      {
+        "day": "Thursday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "CP",
+        "room": "G08"
+      },
+      {
+        "day": "Friday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "CP",
+        "room": "G09"
+      }
+    ]
+  },
+  "DLD": {
+    "Sec1": [
+      {
+        "day": "Monday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "DLD",
+        "room": "G09"
+      },
+      {
+        "day": "Tuesday",
+        "time": "08:45 AM - 09:45 AM",
+        "subject": "DLD Lab",
+        "room": "114/102"
+      },
+      {
+        "day": "Tuesday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "DLD Lab",
+        "room": "114/102"
+      },
+      {
+        "day": "Tuesday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "DLD",
+        "room": "B03"
+      },
+      {
+        "day": "Thursday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "DLD",
+        "room": "G09"
+      }
+    ],
+    "Sec2": [
+      {
+        "day": "Monday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "DLD",
+        "room": "G08"
+      },
+      {
+        "day": "Tuesday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "DLD",
+        "room": "G08"
+      },
+      {
+        "day": "Wednesday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "DLD",
+        "room": "G08"
+      },
+      {
+        "day": "Friday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "DLD Lab",
+        "room": "114/102"
+      },
+      {
+        "day": "Friday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "DLD Lab",
+        "room": "114/102"
+      }
+    ],
+    "Sec3": [
+      {
+        "day": "Tuesday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "DLD Lab",
+        "room": "114/102"
+      },
+      {
+        "day": "Tuesday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "DLD Lab",
+        "room": "114/102"
+      },
+      {
+        "day": "Wednesday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "DLD",
+        "room": "G07"
+      },
+      {
+        "day": "Thursday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "DLD",
+        "room": "G07"
+      },
+      {
+        "day": "Friday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "DLD",
+        "room": "G08"
+      }
+    ],
+    "Sec4": [
+      {
+        "day": "Tuesday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "DLD",
+        "room": "G09"
+      },
+       {
+        "day": "Wednesday",
+        "time": "08:45 AM - 09:45 AM",
+        "subject": "DLD Lab",
+        "room": "114/102"
+      },
+      {
+        "day": "Wednesday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "DLD Lab",
+        "room": "114/102"
+      },
+      {
+        "day": "Wednesday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "DLD",
+        "room": "G04"
+      },
+      {
+        "day": "Wednesday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "DLD",
+        "room": "G09"
+      }
+    ]
+  },
+  "OCW": {
+    "Sec1": [
+      {
+        "day": "Monday",
+        "time": "08:45 AM - 09:45 AM",
+        "subject": "OCW Lab",
+        "room": "103"
+      },
+      {
+        "day": "Monday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "OCW Lab",
+        "room": "103"
+      },
+      {
+        "day": "Wednesday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "OCW",
+        "room": "G09"
+      },
+      {
+        "day": "Thursday",
+        "time": "08:45 AM - 09:45 AM",
+        "subject": "OCW",
+        "room": "G08"
+      },
+      {
+        "day": "Friday",
+        "time": "08:45 AM - 09:45 AM",
+        "subject": "OCW",
+        "room": "G09"
+      }
+    ],
+    "Sec2": [
+      {
+        "day": "Tuesday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "OCW",
+        "room": "G09"
+      },
+      {
+        "day": "Friday",
+        "time": "11:00 AM - 12:00 PM",
+        "subject": "OCW",
+        "room": "G09"
+      },
+      {
+        "day": "Monday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "OCW Lab",
+        "room": "103"
+      },
+      {
+        "day": "Monday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "OCW Lab",
+        "room": "103"
+      },
+      {
+        "day": "Thursday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "OCW",
+        "room": "B05"
+      }
+    ],
+    "Sec3": [
+      {
+        "day": "Monday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "OCW",
+        "room": "G07"
+      },
+      {
+        "day": "Tuesday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "OCW Lab",
+        "room": "103"
+      },
+      {
+        "day": "Tuesday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "OCW Lab",
+        "room": "103"
+      },
+      {
+        "day": "Tuesday",
+        "time": "04:30 PM - 05:30 PM",
+        "subject": "OCW",
+        "room": "G07"
+      },
+      {
+        "day": "Friday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "OCW",
+        "room": "G07"
+      }
+    ],
+    "Sec4": [
+      {
+        "day": "Monday",
+        "time": "08:45 AM - 09:45 AM",
+        "subject": "OCW",
+        "room": "G08"
+      },
+      {
+        "day": "Tuesday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "OCW",
+        "room": "G08"
+      },
+      {
+        "day": "Thursday",
+        "time": "08:45 AM - 09:45 AM",
+        "subject": "OCW Lab",
+        "room": "103"
+      },
+      {
+        "day": "Thursday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "OCW Lab",
+        "room": "103"
+      },
+       {
+        "day": "Thursday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "OCW",
+        "room": "G08"
+      }
+    ]
+  },
+  "DSMA": {
+    "Sec1": [
+      {
+        "day": "Tuesday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "DSMA",
+        "room": "G08"
+      },
+      {
+        "day": "Wednesday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "DSMA",
+        "room": "G05"
+      },
+      {
+        "day": "Thursday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "DSMA",
+        "room": "G09"
+      },
+      {
+        "day": "Friday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "DSMA",
+        "room": "G07"
+      }
+    ],
+    "Sec2": [
+      {
+        "day": "Monday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "DSMA",
+        "room": "G08"
+      },
+      {
+        "day": "Tuesday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "DSMA",
+        "room": "G09"
+      },
+      {
+        "day": "Thursday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "DSMA",
+        "room": "G07"
+      },
+      {
+        "day": "Friday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "DSMA",
+        "room": "G07"
+      }
+    ],
+    "Sec4": [
+      {
+        "day": "Monday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "DSMA",
+        "room": "G07"
+      },
+      {
+        "day": "Tuesday",
+        "time": "04:30 PM - 05:30 PM",
+        "subject": "DSMA",
+        "room": "G09"
+      },
+      {
+        "day": "Wednesday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "DSMA",
+        "room": "G09"
+      },
+      {
+        "day": "Friday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "DSMA",
+        "room": "G09"
+      }
+    ],
+    "Sec5": [
+      {
+        "day": "Monday",
+        "time": "04:30 PM - 05:30 PM",
+        "subject": "DSMA",
+        "room": "G04"
+      },
+      {
+        "day": "Wednesday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "DSMA",
+        "room": "G09"
+      },
+      {
+        "day": "Thursday",
+        "time": "03:15 PM - 04:15 PM",
+        "subject": "DSMA",
+        "room": "G09"
+      },
+      {
+        "day": "Friday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "DSMA",
+        "room": "G08"
+      }
+    ],
+    "Sec3": [
+      {
+        "day": "Monday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "DSMA",
+        "room": "G07"
+      },
+      {
+        "day": "Tuesday",
+        "time": "09:45 AM - 10:45 AM",
+        "subject": "DSMA",
+        "room": "G08"
+      },
+      {
+        "day": "Wednesday",
+        "time": "12:00 PM - 01:00 PM",
+        "subject": "DSMA",
+        "room": "G07"
+      },
+      {
+        "day": "Friday",
+        "time": "02:15 PM - 03:15 PM",
+        "subject": "DSMA",
+        "room": "G08"
+      }
+    ]
+  },
+  "FHVE": {
+    "Sec1": [
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      }
+    ],
+    "Sec2": [
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      }
+    ],
+    "Sec3": [
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      }
+    ],
+    "Sec4": [
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      }
+    ],
+    "Sec5": [
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      },
+      {
+        "day": "Saturday",
+        "time": "\u2014",
+        "subject": "FHVE",
+        "room": "\u2014"
+      }
+    ]
+  },
+  "EE": {
+    "Sec1": [
+      {
+        "day": "Friday",
+        "time": "04:30 PM - 05:30 PM",
+        "subject": "EE",
+        "room": "G06"
+      },
+      {
+        "day": "Friday",
+        "time": "05:30 PM - 06:30 PM",
+        "subject": "EE",
+        "room": "G06"
+      }
+    ],
+    "Sec2": [
+      {
+        "day": "Wednesday",
+        "time": "04:30 PM - 05:30 PM",
+        "subject": "EE",
+        "room": "G08"
+      },
+      {
+        "day": "Wednesday",
+        "time": "05:30 PM - 06:30 PM",
+        "subject": "EE",
+        "room": "G08"
+      }
+     
+    ]
+  },
+  "EDL": {
+    "Sec1": [
+      {
+        "day": "Thursday",
+        "time": "04:30 PM - 05:30 PM",
+        "subject": "EDL",
+        "room": "G08"
+      },
+      {
+        "day": "Thursday",
+        "time": "05:30 PM - 06:30 PM",
+        "subject": "EDL",
+        "room": "G08"
+      }
+    ],
+    "Sec2": [
+      {
+        "day": "Saturday",
+        "time": "04:30 PM - 05:30 PM",
+        "subject": "EDL",
+        "room": "G04"
+      },
+      {
+        "day": "Saturday",
+        "time": "05:30 PM - 06:30 PM",
+        "subject": "EDL",
+        "room": "G04"
+      }
+    ]
+  }
+}

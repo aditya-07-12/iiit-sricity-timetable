@@ -9,6 +9,7 @@ const subjectNames = {
     CP: "Computer Programming",
     DLD: "Digital Logic Design",
     OCW: "Overview of Computer Workshop",
+    OCWE: "Overview of Computer Workshop Extra Class",
     DSMA: "Discrete Structures & Matrix Algebra",
     FHVE: "Fundamental of Human Values & Ethics",
     EE: "Electrical Engineering",

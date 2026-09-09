@@ -96,8 +96,8 @@ function getStudentClasses(student, day) {
         classes.forEach(item => {
             if (item.day !== day) return;
             const rawSubject = String(item.subject || "").toLowerCase();
-            const baseName = subjectNames[rawSubject.toUpperCase()] || rawSubject;
-           const displaySubject = rawSubject.includes("lab") ? `${baseName} Lab` : baseName;
+const baseName = subjectNames[course] || course;
+const displaySubject = rawSubject.includes("lab") ? `${baseName} Lab` : baseName;
             result.push({ ...item, course, section, displaySubject });
         });
     }

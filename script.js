@@ -97,7 +97,7 @@ function getStudentClasses(student, day) {
             if (item.day !== day) return;
             const rawSubject = String(item.subject || "").toLowerCase();
 const baseName = subjectNames[course] || course;
-const displaySubject = rawSubject.includes("lab") ? `${baseName} Lab` : baseName;
+const displaySubject = baseName;
             result.push({ ...item, course, section, displaySubject });
         });
     }

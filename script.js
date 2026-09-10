@@ -95,12 +95,17 @@ function getStudentClasses(student, day) {
         classes.forEach(item => {
             if (item.day !== day) return;
             const rawSubject = String(item.subject || "").toLowerCase();
+
 const baseName = subjectNames[course] || course;
-const displaySubject = baseName;
-            result.push({ ...item, course, section, displaySubject });
-        });
-    }
-    return result.sort((a, b) => convertTime(a.time) - convertTime(b.time));
+
+const displaySubject = rawSubject.includes("lab")
+    ? `${baseName} Lab`
+    : baseName;
+
+result.push({ ...item, course, section, displaySubject });
+}
+
+return result.sort((a, b) => convertTime(a.time) - convertTime(b.time));
 }
 
 function showDay(day) {

@@ -87,25 +87,29 @@ function renderDayButtons() {
 
 function getStudentClasses(student, day) {
     const result = [];
+
     for (const [course, section] of Object.entries(student.courses || {})) {
         const courseData = timetableData?.[course];
         const classes = courseData?.[section];
+
         if (!Array.isArray(classes)) continue;
 
         classes.forEach(item => {
             if (item.day !== day) return;
+
             const rawSubject = String(item.subject || "").toLowerCase();
 
-const baseName = subjectNames[course] || course;
+            const baseName = subjectNames[course] || course;
 
-const displaySubject = rawSubject.includes("lab")
-    ? `${baseName} Lab`
-    : baseName;
+            const displaySubject = rawSubject.includes("lab")
+                ? `${baseName} Lab`
+                : baseName;
 
-result.push({ ...item, course, section, displaySubject });
-}
+            result.push({ ...item, course, section, displaySubject });
+        });
+    }
 
-return result.sort((a, b) => convertTime(a.time) - convertTime(b.time));
+    return result.sort((a, b) => convertTime(a.time) - convertTime(b.time));
 }
 
 function showDay(day) {

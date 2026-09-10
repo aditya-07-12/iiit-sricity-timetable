@@ -530,193 +530,104 @@
   "FHVE": {
     "Sec1": [
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Friday",
+        "time": "04:30 PM - 06:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G09"
       },
       {
         "day": "Saturday",
-        "time": "\u2014",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G09"
       },
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Sunday",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G09"
       }
+      
     ],
     "Sec2": [
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Friday",
+        "time": "04:30 PM - 06:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G08"
       },
       {
         "day": "Saturday",
-        "time": "\u2014",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G08"
       },
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Sunday",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G08"
       }
     ],
     "Sec3": [
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Friday",
+        "time": "04:30 PM - 06:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G07"
       },
       {
         "day": "Saturday",
-        "time": "\u2014",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G07"
       },
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Sunday",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G07"
       }
     ],
     "Sec4": [
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Friday",
+        "time": "04:30 PM - 06:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G06"
       },
       {
         "day": "Saturday",
-        "time": "\u2014",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "B05"
       },
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Sunday",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
+        "room": "G06"
       }
     ],
     "Sec5": [
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Friday",
+        "time": "04:30 PM - 06:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "103"
       },
       {
         "day": "Saturday",
-        "time": "\u2014",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
+        "room": "103"
       },
       {
-        "day": "Saturday",
-        "time": "\u2014",
+        "day": "Sunday",
+        "time": "11:30 AM - 01:30 PM",
         "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      },
-      {
-        "day": "Saturday",
-        "time": "\u2014",
-        "subject": "FHVE",
-        "room": "\u2014"
-      }
+        "room": "G05"
+      } 
     ]
   },
   "EE": {

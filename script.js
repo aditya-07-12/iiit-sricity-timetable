@@ -99,18 +99,26 @@ function getStudentClasses(student, day) {
 
             const rawSubject = String(item.subject || "").toLowerCase();
 
-const baseName = rawSubject === "ocwe"
-    ? subjectNames.OCWE
-    : subjectNames[course] || course;
+            const baseName = rawSubject === "ocwe"
+                ? subjectNames.OCWE
+                : subjectNames[course] || course;
 
-const displaySubject = rawSubject.includes("lab")
-    ? `${baseName} Lab`
-    : baseName;
+            const displaySubject = rawSubject.includes("lab")
+                ? `${baseName} Lab`
+                : baseName;
 
-result.push({ ...item, course, section, displaySubject });
+            result.push({
+                ...item,
+                course,
+                section,
+                displaySubject
+            });
+        });
     }
 
-    return result.sort((a, b) => convertTime(a.time) - convertTime(b.time));
+    return result.sort(
+        (a, b) => convertTime(a.time) - convertTime(b.time)
+    );
 }
 
 function showDay(day) {

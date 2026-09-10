@@ -69,10 +69,9 @@ function findTimetable() {
     renderDashboard();
     renderFreeSlots();
 }
-
 function getToday() {
     const jsDay = new Date().getDay();
-    return jsDay >= 1 && jsDay <= 6 ? days[jsDay - 1] : "Monday";
+    return days[jsDay === 0 ? 6 : jsDay - 1];
 }
 
 function renderDayButtons() {

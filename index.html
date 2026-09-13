@@ -11,6 +11,60 @@
 
     <title>UG1 Timetable</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        /* Ganesh Chaturthi holiday screen */
+        .ganesh-holiday {
+            margin-top: 18px;
+            min-height: 58vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 34px 22px;
+            border: 1px solid rgba(148, 163, 184, 0.22);
+            border-radius: 28px;
+            background: radial-gradient(circle at 50% 20%, rgba(245, 158, 11, .13), transparent 42%), #111827;
+            box-shadow: 0 18px 50px rgba(0,0,0,.25);
+            overflow: hidden;
+            position: relative;
+        }
+        .ganesh-holiday::before, .ganesh-holiday::after {
+            content: "";
+            position: absolute;
+            width: 170px;
+            height: 170px;
+            border-radius: 50%;
+            border: 1px solid rgba(245, 158, 11, .14);
+        }
+        .ganesh-holiday::before { top: -80px; left: -70px; }
+        .ganesh-holiday::after { bottom: -95px; right: -75px; }
+        .ganesh-inner { position: relative; z-index: 1; max-width: 720px; }
+        .ganesh-logo {
+            width: 126px;
+            height: 126px;
+            margin: 0 auto 18px;
+            display: grid;
+            place-items: center;
+            border-radius: 50%;
+            background: rgba(245, 158, 11, .10);
+            border: 2px solid rgba(245, 158, 11, .42);
+            box-shadow: 0 0 0 10px rgba(245, 158, 11, .045), 0 16px 40px rgba(245, 158, 11, .10);
+        }
+        .ganesh-logo svg { width: 88px; height: 88px; }
+        .ganesh-kicker { margin: 0 0 10px; font-size: .95rem; letter-spacing: .14em; text-transform: uppercase; opacity: .7; }
+        .ganesh-title { margin: 0; font-size: clamp(2.1rem, 6vw, 4.2rem); line-height: 1.05; font-weight: 800; }
+        .ganesh-title span { display: block; }
+        .ganesh-message { margin: 18px auto 0; max-width: 620px; font-size: 1.08rem; line-height: 1.7; opacity: .82; }
+        .ganesh-divider { width: 90px; height: 3px; margin: 24px auto; border-radius: 99px; background: currentColor; opacity: .28; }
+        .ganesh-subtitle { margin: 0; font-weight: 650; font-size: 1.05rem; }
+        .ganesh-date { margin-top: 8px; opacity: .62; }
+        @media (max-width: 600px) {
+            .ganesh-holiday { min-height: 54vh; padding: 28px 16px; border-radius: 22px; }
+            .ganesh-logo { width: 108px; height: 108px; }
+            .ganesh-logo svg { width: 76px; height: 76px; }
+            .ganesh-message { font-size: 1rem; }
+        }
+    </style>
 </head>
     <div class="container">
         <header class="hero">

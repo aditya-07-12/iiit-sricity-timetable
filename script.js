@@ -22,6 +22,43 @@ const campusEnd = 18 * 60 + 30;
 const usefulFreeSlotMinutes = 30;
 const savedRollKey = "ug1-roll-number";
 
+// Academic calendar holiday: Ganesh Chaturthi is listed on 14 September 2026.
+const GANESH_CHATURTHI_DATE = "2026-09-14";
+
+function localDateKey(date = new Date()) {
+    const y = date.getFullYear();
+    const m = String(date.getMonth() + 1).padStart(2, "0");
+    const d = String(date.getDate()).padStart(2, "0");
+    return `${y}-${m}-${d}`;
+}
+
+function isGaneshChaturthiToday() {
+    return localDateKey() === GANESH_CHATURTHI_DATE;
+}
+
+function ganeshHolidayHTML() {
+    return `
+        <div class="ganesh-holiday" role="status" aria-label="Ganesh Chaturthi holiday">
+            <div class="ganesh-inner">
+                <div class="ganesh-logo" aria-hidden="true">
+                    <svg viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="60" cy="60" r="54" stroke="currentColor" stroke-width="3" opacity=".35"/>
+                        <path d="M60 31c-13-12-31-5-32 10-1 12 8 20 20 20h7c-3 9-8 16-17 21 7 7 15 9 22 8v10h20V90c7 1 15-1 22-8-9-5-14-12-17-21h7c12 0 21-8 20-20-1-15-19-22-32-10Z" stroke="currentColor" stroke-width="5" stroke-linejoin="round"/>
+                        <path d="M44 57c-7 1-12 5-14 11M76 57c7 1 12 5 14 11M50 76c6 5 14 5 20 0M60 31v-9M52 22h16" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+                        <circle cx="48" cy="54" r="2.5" fill="currentColor"/>
+                        <circle cx="72" cy="54" r="2.5" fill="currentColor"/>
+                    </svg>
+                </div>
+                <p class="ganesh-kicker">🪔 Festival Holiday · 14 September 2026</p>
+                <h2 class="ganesh-title"><span>Happy Ganesh</span><span>Chaturthi</span></h2>
+                <div class="ganesh-divider"></div>
+                <p class="ganesh-message">May Lord Ganesha bless you with wisdom, happiness, prosperity and success, and remove every obstacle from your path.</p>
+                <p class="ganesh-subtitle">🙏 गणपति बप्पा मोरया! 🙏</p>
+                <p class="ganesh-date">No regular classes are shown today because it is the Ganesh Chaturthi holiday.</p>
+            </div>
+        </div>`;
+}
+
 async function loadData() {
     try {
         const [studentResponse, timetableResponse] = await Promise.all([
@@ -66,8 +103,10 @@ function findTimetable() {
     renderDayButtons();
     selectedDay = getToday();
     showDay(selectedDay);
-    renderDashboard();
-    renderFreeSlots();
+    if (!isGaneshChaturthiToday()) {
+        renderDashboard();
+        renderFreeSlots();
+    }
 }
 function getToday() {
     const jsDay = new Date().getDay();
@@ -126,6 +165,14 @@ function showDay(day) {
     selectedDay = day;
     document.querySelectorAll(".day-button").forEach(btn => btn.classList.remove("active"));
     document.getElementById(`day-${day}`)?.classList.add("active");
+
+    // On the actual holiday date, replace the class list with the festival message.
+    if (isGaneshChaturthiToday() && day === "Monday") {
+        document.getElementById("dayClasses").innerHTML = ganeshHolidayHTML();
+        document.getElementById("dashboard").innerHTML = "";
+        document.getElementById("freeSlots").innerHTML = "";
+        return;
+    }
 
     const classes = getStudentClasses(currentStudent, day);
     const today = getToday();

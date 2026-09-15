@@ -6,14 +6,14 @@ let selectedDay = null;
 const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday","Sunday"];
 const dayShort = { Monday: "Mon", Tuesday: "Tue", Wednesday: "Wed", Thursday: "Thu", Friday: "Fri", Saturday: "Sat", Sunday:"Sun"};
 const subjectNames = {
-    CP: "Computer Programming",
+    CP: "C Programming",
     DLD: "Digital Logic Design",
     OCW: "Overview of Computer Workshop",
     OCWE: "Overview of Computer Workshop Extra Class",
     DSMA: "Discrete Structures & Matrix Algebra",
     FHVE: "Fundamental of Human Values & Ethics",
-    EE: "Electrical Engineering",
-    EDL: "Electronics & Digital Logic"
+    EE: "Essential English",
+    EDL: "Ethics in Daily Life"
 };
 
 // These are the regular UG1 timetable boundaries visible in the supplied timetable.

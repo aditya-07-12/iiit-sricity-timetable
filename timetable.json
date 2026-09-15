@@ -524,104 +524,78 @@
   "FHVE": {
     "Sec1": [
       {
-        "day": "Friday",
-        "time": "04:30 PM - 06:30 PM",
-        "subject": "FHVE",
-        "room": "G09"
-      },
-      {
         "day": "Saturday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "G09"
+        "room": " "
       },
       {
         "day": "Sunday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "G09"
+        "room": " "
       }
       
     ],
     "Sec2": [
       {
-        "day": "Friday",
-        "time": "04:30 PM - 06:30 PM",
-        "subject": "FHVE",
-        "room": "G08"
-      },
-      {
         "day": "Saturday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "G08"
+        "room": " "
       },
       {
         "day": "Sunday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "G08"
+        "room": " "
       }
+
     ],
     "Sec3": [
       {
-        "day": "Friday",
-        "time": "04:30 PM - 06:30 PM",
-        "subject": "FHVE",
-        "room": "G07"
-      },
-      {
         "day": "Saturday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "G07"
+        "room": " "
       },
       {
         "day": "Sunday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "G07"
+        "room": " "
       }
+      
     ],
     "Sec4": [
       {
-        "day": "Friday",
-        "time": "04:30 PM - 06:30 PM",
-        "subject": "FHVE",
-        "room": "G06"
-      },
-      {
         "day": "Saturday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "B05"
+        "room": " "
       },
       {
         "day": "Sunday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "G06"
+        "room": " "
       }
+      
     ],
     "Sec5": [
       {
-        "day": "Friday",
-        "time": "04:30 PM - 06:30 PM",
-        "subject": "FHVE",
-        "room": "103"
-      },
-      {
         "day": "Saturday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "103"
+        "room": " "
       },
       {
         "day": "Sunday",
-        "time": "11:30 AM - 01:30 PM",
+        "time": "08:45 AM - 06:30 PM",
         "subject": "FHVE",
-        "room": "G05"
-      } 
+        "room": " "
+      }
+      
     ]
   },
   "EE": {
